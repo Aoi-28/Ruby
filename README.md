@@ -12,4 +12,4 @@ Rubyは、日本人のまつもとひろゆきさんが作ったオブジェク�
 
 #目次
 
-- [README.md](https://github.com/Toshiki-ishikawa/Ruby/blob/master/Ruby1.md)
+- [Rubyの基礎](https://github.com/Toshiki-ishikawa/Ruby/blob/master/Ruby2.md)
