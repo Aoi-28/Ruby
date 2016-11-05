@@ -12,4 +12,5 @@ Rubyは、日本人のまつもとひろゆきさんが作ったオブジェク�
 
 #目次
 
-- [Rubyの基礎](https://github.com/Toshiki-ishikawa/Ruby/blob/master/Ruby2.md)
+2.[Rubyの基礎](/Text/Ruby2.md)  
+3.[オブジェクト](/Text/Ruby3.md)
