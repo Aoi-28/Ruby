@@ -14,3 +14,4 @@ Rubyは、日本人のまつもとひろゆきさんが作ったオブジェク�
 
 2.[Rubyの基礎](/Text/Ruby2.md)  
 3.[オブジェクト](/Text/Ruby3.md)
+4.[条件分岐](/Text/Ruby4.md)
