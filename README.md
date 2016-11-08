@@ -13,5 +13,6 @@ Rubyは、日本人のまつもとひろゆきさんが作ったオブジェク�
 #目次
 
 2.[Rubyの基礎](/Text/Ruby2.md)  
-3.[オブジェクト](/Text/Ruby3.md)
+3.[オブジェクト](/Text/Ruby3.md)  
 4.[条件分岐](/Text/Ruby4.md)
+5.[繰り返し]#(/Text/Ruby5.md)
