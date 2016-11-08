@@ -69,6 +69,7 @@ javaやCのswitch文に相当する。
 
 ###4-5.修飾子
 if文やunless文は、実行したい処理の後ろに書くことができる。
-```
-	puts "if" if true	
+
+```ruby  
+puts "if" if true	
 ```
