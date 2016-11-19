@@ -73,3 +73,6 @@ if文やunless文は、実行したい処理の後ろに書くことができる
 ```ruby  
 puts "if" if true	
 ```
+
+###4-6.サンプルコード
+[サンプルコード](../Ruby_Programs/ifunless.rb)
