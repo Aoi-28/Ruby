@@ -25,3 +25,19 @@ Rubyにもjavaのtry-catch文のような例外処理文が存在する。
 
 javaのExceptionのように、例外をオブジェクトとして考え、変数に代入し処理することも可能である。
 
+また、javaのfainally文のような構文は、
+
+```Ruby
+	begin
+		例外処理
+	rescue
+		例外時処理
+	ensure
+		finally文
+	end
+```
+
+のようにすることでできる。
+
+また、rescue節でやり直しをする場合、retryをかましてやると良い。
+

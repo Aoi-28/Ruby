@@ -19,6 +19,6 @@ Rubyは、日本人のまつもとひろゆきさんが作ったオブジェク�
 6.[メソッド](/Text/Ruby6.md)  
 7.[クラス](/Text/Ruby7.md)  
 8.[演算子と例外](/Text/Ruby8.md)  
-9.[]()  
+9.[Numericクラス](/Text/Ruby9.md)  
 10.[]()  
 11.
