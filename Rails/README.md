@@ -6,4 +6,3 @@
 3.[Viewクラス(V)](Text/Rails3.md)  
 4.[Modelクラス(M)](Text/Rails4.md)  
 5.[Scaffolding機能](Text/Rails5.md)  
-6.[ビューの開発]()  
