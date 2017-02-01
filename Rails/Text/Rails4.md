@@ -62,7 +62,7 @@ rake db:migrate
 ```
 rake db:fixtures:load FIXTURES=books
 ```
-
+※Rails5でrakeコマンドがrailsコマンドになっているため、ver5以降なら、railsでもrakeでも生成が可能である。
 ######データベースファイルの閲覧
 ```
 rails dbconsole
